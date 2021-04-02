@@ -1,1 +1,1 @@
-# Coding is good
+# Coding is good for the software developers
